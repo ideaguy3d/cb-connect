@@ -1,6 +1,10 @@
-# Slim Framework 4 Skeleton Application
 
-[![Coverage Status](https://coveralls.io/repos/github/slimphp/Slim-Skeleton/badge.svg?branch=master)](https://coveralls.io/github/slimphp/Slim-Skeleton?branch=master)
+# Pre Google Cloud
+
+I'm have switched the entire source code to run on Google Cloud due to issues I was having with my Linux web hosting.
+Everything at this point is BEFORE Google Cloud.  
+
+## Slim Framework 4 Skeleton Application
 
 Use this skeleton application to quickly setup and start working on a new Slim Framework 4 application. This application uses the latest Slim 4 with Slim PSR-7 implementation and PHP-DI container implementation. It also uses the Monolog logger.
 
